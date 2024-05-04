@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\wsb\\ETHTPS.WSB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|e:\\source\\wsb\\ethtps.wsb\\services\\l2connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|solutionrelative:services\\l2connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|e:\\source\\wsb\\ethtps.wsb\\controllers\\sweepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|solutionrelative:controllers\\sweepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|e:\\source\\wsb\\ethtps.wsb\\services\\l2proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|solutionrelative:services\\l2proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|e:\\source\\wsb\\ethtps.wsb\\services\\l2sweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|solutionrelative:services\\l2sweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|e:\\source\\wsb\\ethtps.wsb\\services\\itransactionmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|solutionrelative:services\\itransactionmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|e:\\source\\wsb\\ethtps.wsb\\models\\blockchainnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|solutionrelative:models\\blockchainnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988BD808-2F89-485B-BA24-6EB5283DED85}|..\\ETHTPS.Grabber\\ETHTPS.Grabber.csproj|e:\\source\\wsb\\ethtps.grabber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|e:\\source\\wsb\\ethtps.wsb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F1ADE0-D49C-4BA8-B36C-C4F64C6FAE45}|ETHTPS.WSB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 316,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlockchainNetwork.cs",
+              "DocumentMoniker": "E:\\source\\wsb\\ETHTPS.WSB\\Models\\BlockchainNetwork.cs",
+              "RelativeDocumentMoniker": "Models\\BlockchainNetwork.cs",
+              "ToolTip": "E:\\source\\wsb\\ETHTPS.WSB\\Models\\BlockchainNetwork.cs",
+              "RelativeToolTip": "Models\\BlockchainNetwork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:23:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SweepController.cs",
+              "DocumentMoniker": "E:\\source\\wsb\\ETHTPS.WSB\\Controllers\\SweepController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SweepController.cs",
+              "ToolTip": "E:\\source\\wsb\\ETHTPS.WSB\\Controllers\\SweepController.cs",
+              "RelativeToolTip": "Controllers\\SweepController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:01:59.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 598,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "L2Proxy.cs",
+              "DocumentMoniker": "E:\\source\\wsb\\ETHTPS.WSB\\Services\\L2Proxy.cs",
+              "RelativeDocumentMoniker": "Services\\L2Proxy.cs",
+              "ToolTip": "E:\\source\\wsb\\ETHTPS.WSB\\Services\\L2Proxy.cs",
+              "RelativeToolTip": "Services\\L2Proxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:16:40.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\wsb\\ETHTPS.WSB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\source\\wsb\\ETHTPS.WSB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:16:24.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\wsb\\ETHTPS.Grabber\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ETHTPS.Grabber\\Program.cs",
+              "ToolTip": "E:\\source\\wsb\\ETHTPS.Grabber\\Program.cs",
+              "RelativeToolTip": "..\\ETHTPS.Grabber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:55:02.226Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransactionMonitor.cs",
+              "DocumentMoniker": "E:\\source\\wsb\\ETHTPS.WSB\\Services\\ITransactionMonitor.cs",
+              "RelativeDocumentMoniker": "Services\\ITransactionMonitor.cs",
+              "ToolTip": "E:\\source\\wsb\\ETHTPS.WSB\\Services\\ITransactionMonitor.cs",
+              "RelativeToolTip": "Services\\ITransactionMonitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:19:38.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "L2Sweeper.cs",
+              "DocumentMoniker": "E:\\source\\wsb\\ETHTPS.WSB\\Services\\L2Sweeper.cs",
+              "RelativeDocumentMoniker": "Services\\L2Sweeper.cs",
+              "ToolTip": "E:\\source\\wsb\\ETHTPS.WSB\\Services\\L2Sweeper.cs",
+              "RelativeToolTip": "Services\\L2Sweeper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:57:14.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 545,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "L2Connector.cs",
+              "DocumentMoniker": "E:\\source\\wsb\\ETHTPS.WSB\\Services\\L2Connector.cs",
+              "RelativeDocumentMoniker": "Services\\L2Connector.cs",
+              "ToolTip": "E:\\source\\wsb\\ETHTPS.WSB\\Services\\L2Connector.cs",
+              "RelativeToolTip": "Services\\L2Connector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:02:46.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

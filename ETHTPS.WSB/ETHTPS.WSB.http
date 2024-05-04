@@ -1,0 +1,6 @@
+@ETHTPS.WSB_HostAddress = http://localhost:5001
+
+GET {{ETHTPS.WSB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
